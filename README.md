@@ -19,7 +19,7 @@
  
 ## Esta es la estructura básica del proyecto. Cualquier duda me consultan a mi, sean ordenados y sigan este patrón. 
 
-##Uso del Repositorio con Ramas
+## Uso del Repositorio con Ramas
 
 **Para evitar que el proyecto se rompa porque alguien mete cambios directamente en main, vamos a seguir estas reglas básicas para trabajar con ramas.**
 
@@ -62,4 +62,4 @@ Esperar revisión antes de hacer el merge.
 ✅ **Hacer PRs antes de mergear a main.**
 ✅ **Sincronizar con main regularmente para evitar conflictos.**
 
-# Si seguís estas reglas, no vamos a tener quilombos con el código. Cualquier duda, preguntá antes de hacer cagadas. 
+**Si seguís estas reglas, no vamos a tener quilombos con el código. Cualquier duda, preguntá antes de hacer cagadas.** 
