@@ -1,5 +1,3 @@
-# **IMPORTANTE**
-
 # Para reinstalar las dependencias:
 - dotnet restore
 
@@ -17,7 +15,7 @@
   - Windows: Una carpeta para colocar las ventanas principales.
   - SecondWindows: Una carpeta para colocar las ventanas secundarias (Como por ejemplo formularios que se abran de las ventanas principales.)
  
-## Esta es la estructura básica del proyecto. Cualquier duda me consultan a mi, sean ordenados y sigan este patrón. 
+**Esta es la estructura básica del proyecto. Cualquier duda me consultan a mi, sean ordenados y sigan este patrón.** 
 
 ## Uso del Repositorio con Ramas
 
