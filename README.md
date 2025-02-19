@@ -62,4 +62,4 @@ Esperar revisión antes de hacer el merge.
 ✅ **Hacer PRs antes de mergear a main.**
 ✅ **Sincronizar con main regularmente para evitar conflictos.**
 
-#Si seguís estas reglas, no vamos a tener quilombos con el código. Cualquier duda, preguntá antes de hacer cagadas. 
+# Si seguís estas reglas, no vamos a tener quilombos con el código. Cualquier duda, preguntá antes de hacer cagadas. 
