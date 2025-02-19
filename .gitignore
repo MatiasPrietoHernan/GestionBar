@@ -1,0 +1,23 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Archivos generados por el compilador
+bin/
+obj/
+
+# Archivos de configuración de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de paquetes de NuGet
+packages/
+
+# Archivos de configuración de Rider
+.idea/
+
+# Archivos temporales
+*.log
