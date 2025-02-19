@@ -8,4 +8,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="SecondWindows\" />
+    <Folder Include="Windows\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\DataLayer.csproj" />
+    <ProjectReference Include="..\CapaLogica\LogicLayer.csproj" />
+  </ItemGroup>
+
 </Project>
